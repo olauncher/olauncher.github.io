@@ -1,0 +1,34 @@
+---
+layout: post
+title: Minecraft 1.2.4
+---
++ Chat history and much better chat editing
++ A few new decoration blocks
++ “Back” and “Quit” buttons to OutOfMemoryScreen
++ Made cats more realistic (read: probably annoying). I hope it’s enough to cancel out any joy you may receive from the previous feature!
++ Added a “minimal” debug menu for testing with. Shift+F3 to hide the graphs.
+* Made placing half blocks on existing half blocks (to make a full block) easier
+* Limit framerate on menu screens, no longer uses 100% cpu and make my computer melt
+* Fixed fatal crash for converted worlds to anvil, when there’s blocks at max height
+* Fixed an old bug with signs clearing text while you’re editing them in SMP
+* Fixed crash when logging in while there are blocks at maxheight at spawn
+* Fixed TNT ghosts in multiplayer
+* Fixed storage minecarts dropping enchanted items
+* Fixed crashes on invalid server addresses when joining a server
+* Fixed entities being uninteractable if they existed at login (Multiplayer)
+* Fixed dupe exploit with paintings
+* Fixed furnaces and dispensers dropping enchanted items
+* Fixed the “flickering” of chat as it vanishes off the screen
+* Fixed text rendering over items in the container screens
+* Fixed exploit with jungle saplings (turns other saplings into jungle ones)
+* Fixed launcher opening minecraft dir if the path contains a space
+* Fixed an off-by-one lighting bug
+* Fixed block transmuting (turning one block into another via pistons)
+* Fixed placing mushrooms in daylight, where they can’t survive
+* Fixed redstone lamps dropping powered block items when destroyed while on
+* “save-all” (server) now works even when you have toggled “save-off”
+* Fixed turning half-blocks into full-blocks while you’re standing on them
+* Fixed seed displaying in F3 debug when the seed is unknown (multiplayer)
+* Fixed villager texture changing clientside per profession
+* Fixed falling off ledge corners while holding shift
+* Fixed players falling when reconnecting to servers where they were previously flying 

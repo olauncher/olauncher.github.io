@@ -1,0 +1,129 @@
+---
+layout: post
+title: Minecraft Beta 1.6
+---
+New features:
++ Added Nether support to multiplayer
++ The client will ask minecraft.net if the current login is valid. If the server says “no”, a warning message appears in the client. You can still play the game even if this happens.
++ Added craftable maps
++ Added hatches
++ Added tall grass in some biomes
++ Mushrooms now spreads (very) slowly
++ Added server property view-distance. Sets the radius of terrain updates (in chunks) to send to the players. Range 3-15, default 10.
++ Added dead shrubs in deserts
++ Added allow-nether (set to true or false) in server.properties
++ Blocks destroyed by other players in multiplayer now shows the breaking block particle effect
++ Doors make sound for other players in multiplayer
++ The record player now supports more than 15 different songs (you can’t get the records yet, though)
++ Activated dispensers make sounds and trigger particles in multiplayer
++ Players stuck in walls will slide towards the nearest gap if there is one
+
+Changes:
+* Disabled Advanced OpenGL until we can fix some bugs with it
+* It’s no longer possible to build solid blocks on the top layer of the maps (sorry!)
+* Made booster tracks speedier
+* Severely nerfed fire so it spread slower, and doesn’t spread infinitely
+* Seeds are now found in tall grass, using a hoe on the ground no longer works
+* Compressed network traffic more agressively
+* Blocks that don’t change appearance when the data changes don’t send block updates when their data changes now
+* Arrows shot by players can now be picked up by all players
+* Nothing riding anything or being ridden by anything can enter portals
+
+Bugfixes:
+* Fixed running out of memory corrupting the current level
+* Fixed the side textures of grass getting extra dark when mining them
+* Fixed anaglyph 3d rendering mode having severe visual bugs
+* Fixed the crash screen vanishing immediately
+* Fixed not being able to target blocks when at x or z pos 1000
+* Fixed the achievements screen messing up the sky color
+* Fixed saving while sneaking dropping the player through the ground
+* Fixed a system clock change messing up the game speed
+* Fixed rain sounds not playing with fast graphics enabled
+* Fixed hair and cloaks being rendered in the wrong locations on sneaking players
+* Fixed the attack/swing animation not being applied to the armor layer
+* Fixed player rotation not being loaded correctly when loading a saved game
+* Fixed arrow physics, making them not get stuck midair when you open a door
+* Fixed arrows hitting reeds, portals, and other non-solid blocks
+* Fixed keybindings not getting saved properly under certain conditions
+* Fixed the player not being able to sneak off lowered blocks like cacti
+* Fixed a bug where the player could mine without swinging their arm
+* Fixed boats placed on snow being placed too far up
+* Fixed submerged boats rising very very fast
+* Fixed sand dropping onto boats getting stuck in a falling animation
+* Fixed a game crash when riding a vehicle or animal into the nether
+* Fixed falling while riding not dealing damage to the rider
+* Fixed buttons and levers too close to the player being impossible to use
+* Fixed dispensers shooting through walls
+* Fixed fire hurting through wall corners
+* Fixed entities reaching water through wall corners
+* Fixed placing doors next to cacti creating half-doors
+* Fixed buttons and levers being placeable on leaves in “fast graphics” mode
+* Fixed furnaces and dispensers not dropping their contents when destroyed
+* Fixed dispensers biasing later slots
+* Fixed farmland taking too long to dig
+* Fixed tilling below some blocks being possible
+* Fixed tilling the underside of blocks somehow working
+* Fixed fences and stairs sometimes becoming invisible
+* Fixed walking on top of fences not producing step sounds
+* Fixed fire sometimes existing mid-air as an invisible block of pain
+* Fixed fences and wooden stairs not being flammable
+* Fixed fire effect on burning entities sometimes getting rendered in the wrong location
+* Fixed fishing rod rendering being a bit lacking
+* Fixed fishing rods being stackable
+* Fixed mining glass hiding the clouds behind the glass
+* Fixed rain falling through liquids
+* Fixed items in glass blocks not getting ejected properly
+* Fixed water interacting strangely with glass
+* Fixed glass not blocking rain sound
+* Fixed fences and signs preventing grass from growing
+* Fixed rain and snow being incorrectly lit
+* Fixed grass staying alive below stair blocks
+* Fixed the achievement screen not pausing the game
+* Fixed some screens breaking the sky tint color
+* Fixed fullscreen mode switching causing mouse issues and screen closes
+* Fixed chat messages surviving through game switches
+* Fixed ice so it regenerates regardless of whether it’s snowing or not
+* Fixed rain falling too slowly
+* Fixed levers being placeable on weird locations
+* Fixed floor levers sometimes not delivering a signal downwards
+* Fixed floor levers sometimes not being removed when the floor is removed
+* Fixed rail tiles sometimes not properly connecting to a new neighbor
+* Fixed minecarts next to each other causing extreme velocities (sorry!)
+* Fixed wolves not following their owner if the name has different caps
+* Fixed creepers retaining charge level when they can’t see their target
+* Fixed dying in the nether spawning new portals
+* “Fixed” beds in the nether
+* Fixed inventory acting weird when portaling by making the portal close all screens
+* Fixed wooden pressure plates being mined with pickaxes
+* Fixed redstone repeaters having the wrong particles
+* Fixed saplings being plantable through snow onto non-grass blocks
+* Fixed ore density varying per quadrant from the center of the world
+* Fixed dispenser graphics being one pixel off. ONE PIXEL!!!
+* Fixed mushrooms spawning everywhere during nights
+* Fixed animals only spawning near light during the night
+* Fixed the multiplayer join screen input field being too short
+* Fixed IPv6 addresses being parsed wrongly. To connect to a specific port in IPv6, use the format [1234:567::1]:25565
+* Fixed network packets being sent unbuffered, causing huge amounts of packets being sent
+* Fixed entity positions going out of synch sometimes. They get re-synched every 20 seconds now.
+* Fixed inventory icons not animating after being picked up in multiplayer
+* Fixed mushroom soup not leaving a bowl in multiplayer
+* Fixed entities above the map height limit becoming invisible
+* Fixed healing not flashing the health bar in multiplayer
+* Fixed arrows being animated really strangely in multiplayer
+* Fixed arrows triggering too many entity move updates in multiplayer
+* Fixed the compass not pointing at the spawn location in multiplayer
+* Fixed fires being impossible to put out in multiplayer
+* Fixed record players spawning client-side fake records in multiplayer
+* Fixed records not playing for other players in multiplayer
+* Fixed players spawning in the wrong location and quickly lerping to the correct location
+* Fixed monsters not being visible for players with their difficulty set to peaceful
+* Fixed pigs getting hit by lightning in multiplayer spawning client-side zombie pigmen
+* Fixed loads of exploding tnt generating way too many particles, possibly crashing the client
+* Fixed bonemeal use in multiplayer sometimes spawning fake client-side trees
+* Fixed saplings sometimes spawning trees client-side in multiplayer
+* Fixed weather sometimes changing client-side in multiplayer
+* Fixed grasscolor.png and foliagecolor.png not being read from texture packs
+* Fixed stats getting saved to different files in offline mode if the caps in the player name differ from the true spelling
+* Fixed fireballs not being visible in multiplayer
+* Fixed ghasts’ fireing animation not being visible in multiplayer
+* Fixed receiving more items than the maximum stack size sometimes causing an oversized stack in the inventory

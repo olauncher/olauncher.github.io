@@ -1,0 +1,51 @@
+---
+layout: post
+title: Minecraft Beta 1.8
+---
++ Added a brand new biome generation code that simplifies life a lot and makes things much more exciting for the future
++ Added new mob; Endermen
++ Added FOV slider
++ Added brightness slider
++ Added randomly generated ravines
++ Killing a monster makes it drop experience orbs
++ The player can level up by gathering experience orbs
++ Added randomly generated houses
++ Added huge mushrooms
++ Using bonemeal on small mushrooms grows the mushroom into a giant mushroom if there’s room
++ Rewrote the light rendering to use multitexturing instead of direct colors
++ Sky light and block light have different tints, cool colors for sky light, warm for block lights
++ Added critical hits that deal +50% damage, plus an extra point to make crits with weak weapons worth it
++ If the player hits a mob while falling, they always hit a critical hit
++ The game now keeps track of damage sources and types
++ Some damage type ignore armor now; drowning, being on fire (but not being IN a fire), falling out of the world
++ Ice now only spreads next to existing ice or from coast areas
++ Made the explosions prettier
++ Made level height depend on a single variable (the level height still is 128, but it’s more moddable now)
++ Added sprinting
++ Added hunger
++ Food is now stackable
++ Improved the logo
++ Added suspended particles to water
++ Added a server list so you can remember multiple servers
++ The player regenerates slowly while the food bar is high
++ Eating food now takes time
++ Skeletons hold their bows better now
++ Added melons
++ Made melons and pumpkins farmable
++ Animals that get hurt will flee randomly for a short while
++ Pigs have snouts now
++ Made a flashier title screen
++ Looking towards the sun during sunset/sunrise changes fog color
++ Added fence gates
++ Added a player list to multiplayer
++ Added Silverfish
++ Added Cave Spider
++ Added huge underground dungeons (stronghold)
++ Added underground mine shafts
++ Added melon
++ Added sprouts for melons and pumpkins
++ Added vines
++ Added iron bars
+* Fixed mushrooms spreading infinitely
+* Fixed caves generating with too many dead ends
+- Removed Herobrine
