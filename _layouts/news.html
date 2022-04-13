@@ -22,9 +22,8 @@
             </table>
             <div class="container">
               <div id="posts">
-                  <h3><a href="{{ post.url }}">{{ page.title }}</a></h3>
                   {{ content }}
-                  
+
                   {% if page.next %}
                     <a href="{{ page.next.url }}">Newer</a>
                   {% endif %}

@@ -1,12 +1,14 @@
 ---
-layout: default
-title: test
+layout: news
+title: Minecraft News
 ---
 
 {% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <div class="content">
-    {{ post.content }}
+  <div style="margin-top:40px">
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <div class="content">
+      {{ post.content }}
+    </div>
   </div>
 {% endfor %}
 
