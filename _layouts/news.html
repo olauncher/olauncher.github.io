@@ -22,14 +22,15 @@
             </table>
             <div class="container">
               <div id="posts">
-                  {{ content }}
+                {% include olauncher-post.html %}
+                {{ content }}
 
-                  {% if page.next %}
-                    <a href="{{ page.next.url }}">Newer</a>
-                  {% endif %}
-                  {% if page.previous %}
-                    <a href="{{ page.previous.url }}">Older</a>
-                  {% endif %}
+                {% if page.next %}
+                  <a href="{{ page.next.url }}">Newer</a>
+                {% endif %}
+                {% if page.previous %}
+                  <a href="{{ page.previous.url }}">Older</a>
+                {% endif %}
               </div>
               <hr>
               <p>OLauncher is not affliated with Mojang Studios or Microsoft.</p>
