@@ -1,0 +1,16 @@
+---
+layout: post
+title: Minecraft 1.12.2 released
+---
+
+We are still working on 1.13 so don't worry! It will be out some time in the future. This is a fix for a multiplayer exploit which could not wait until 1.13.
+
+## CHANGES IN 1.12.2
+ * Updated the in game logo
+ * Fixed an exploit and a bunch of other bugs
+
+Cross-platform server jar:
+ * [Minecraft server jar](https://launcher.mojang.com/mc/game/1.12.2/server/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar)
+
+Report bugs here:
+ * [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)
