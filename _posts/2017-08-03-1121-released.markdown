@@ -3,7 +3,7 @@ layout: post
 title: Minecraft 1.12.1 released
 ---
 
-We're all working very hard on 1.13, which will be a technical update to make the game run better than ever & easier for us to add super cool things later. But for now, we decided to create a small bugfix release for a multiplayer security issue in 1.12.
+We're all working very hard on 1.13, which will be a technical update to make the game run better than ever & easier for us to add super cool things later. But for now, we decided to create a small bugfix release for a multiplayer security issue in 1.12.<br>
 
 **Changes in 1.12.1:**<br>
 \* Made some optimisations<br>

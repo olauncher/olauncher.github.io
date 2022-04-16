@@ -3,7 +3,7 @@ layout: post
 title: Minecraft 1.12.2 released
 ---
 
-We are still working on 1.13 so don't worry! It will be out some time in the future. This is a fix for a multiplayer exploit which could not wait until 1.13.
+We are still working on 1.13 so don't worry! It will be out some time in the future. This is a fix for a multiplayer exploit which could not wait until 1.13.<br>
 
 **Changes in 1.12.2:**<br>
 \* Updated the in game logo<br>

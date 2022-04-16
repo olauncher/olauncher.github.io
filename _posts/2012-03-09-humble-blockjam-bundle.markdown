@@ -2,7 +2,7 @@
 layout: post
 title: Humble BlockJam Bundle
 ---
-<a href="https://www.humblebundle.com/blockjam-bundle"><img src="https://64.media.tumblr.com/aa4a1089ab74dbc6711be4742796251b/tumblr_inline_ogdqheDIds1qdknz5_540.png" alt="Humble BlockJam"></a>
+<a href="https://www.humblebundle.com/blockjam-bundle"><img src="/img/humble_blockjam_bundle_540.png" alt="Humble BlockJam"></a>
 
 Go to [https://www.humblebundle.com/blockjam-bundle](https://www.humblebundle.com/blockjam-bundle) to donate! 100% goes to charity!
 

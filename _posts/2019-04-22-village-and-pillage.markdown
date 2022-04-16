@@ -3,11 +3,11 @@ layout: post
 title: Village & Pillage out today on Java
 ---
 
-Apparently, it takes a village to raise a child. Frankly, if we'd known how much work putting together the biggest Minecraft update yet was going to be, we'd have probably taken the easy option and tried to raise that child instead.
+Apparently, it takes a village to raise a child. Frankly, if we'd known how much work putting together the biggest Minecraft update yet was going to be, we'd have probably taken the easy option and tried to raise that child instead.<br>
 
-But it was all worth it for this, **Village & Pillage** Update release day! I can almost hear the Pillagers firing their crossbows into the air in celebration! Or are they firing them towards me...
+But it was all worth it for this, **Village & Pillage** Update release day! I can almost hear the Pillagers firing their crossbows into the air in celebration! Or are they firing them towards me...<br>
 
-Enjoy the update!
+Enjoy the update!<br>
 
 **Changelog:**<br>
 \* Lots of accessibility improvements!<br>
@@ -60,7 +60,7 @@ Enjoy the update!
 \* Biome based architecture for villages<br>
 \- Removed Herobrine<br>
 
-**GET THE RELEASE:**
+**GET THE RELEASE:**<br>
 
 Cross-platform server jar:<br>
 \* [Minecraft server jar](https://launcher.mojang.com/v1/objects/f1a0073671057f01aa843443fef34330281333ce/server.jar)<br>
