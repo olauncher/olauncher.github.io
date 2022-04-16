@@ -22,7 +22,9 @@
             </table>
             <div class="container">
               <div id="posts">
-                {% include olauncher-post.html %}
+                {% if paginator.page == 1 %}
+                  {% include olauncher-post.html %}
+                {% endif %}
                 {{ content }}
 
                 {% if page.next %}

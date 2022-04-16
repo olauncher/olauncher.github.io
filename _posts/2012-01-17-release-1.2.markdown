@@ -2,16 +2,16 @@
 layout: post
 title: Minecraft 1.2
 ---
-+ New jungle biome
-+ Added ocelots
-+ Added cats
-+ Added iron golems
-+ New AI for mobs
-+ Tame wolves can have puppies
-+ Villagers will have children if there is room in their village
-+ Added rare drops for mobs
-+ New items and blocks
-* New map height limit (256 instead of 128)
-* Doors have been updated so that double-doors work better with redstone
-* Many other minor tweaks and fixes
-- Removed Herobrine 
+\+ New jungle biome<br>
+\+ Added ocelots<br>
+\+ Added cats<br>
+\+ Added iron golems<br>
+\+ New AI for mobs<br>
+\+ Tame wolves can have puppies<br>
+\+ Villagers will have children if there is room in their village<br>
+\+ Added rare drops for mobs<br>
+\+ New items and blocks<br>
+\* New map height limit (256 instead of 128)<br>
+\* Doors have been updated so that double-doors work better with redstone<br>
+\* Many other minor tweaks and fixes<br>
+\- Removed Herobrine <br>

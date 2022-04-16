@@ -6,8 +6,8 @@ This area will be used to inform you about game updates and other important news
 
 One cool feature about the new launcher you might want to know about is that you can pass it command-line features! The syntax is:
 
-Minecraft <username> <password> <server:port>
+Minecraft &lt;username&gt; &lt;password&gt; &lt;server:port&gt;
 
-<username> is the username you wish to log in as
-<password> is your password. If this is set, the launcher will automatically start the game without waiting for you to press the button
-<server:port> is an ip to a minecraft server. If this is set, the game will automatically connect to that server once the game has started.
+&lt;username&gt; is the username you wish to log in as
+&lt;password&gt; is your password. If this is set, the launcher will automatically start the game without waiting for you to press the button
+&lt;server:port&gt; is an ip to a minecraft server. If this is set, the game will automatically connect to that server once the game has started.

@@ -17,18 +17,18 @@ And lets not forget, parrots! :partyparrot:
 
 The World of Color change log,
 
- * Added Glazed Terracotta blocks
- * Renamed Hardened Clay to Terracotta
- * Added Concrete Powder blocks
- * Added Concrete blocks
- * Updated base color palette
- * Added advancements
- * Added recipe book
- * Added Knowledge Book item
- * Added Parrots
- * Added functionality to save toolbars in creative mode
- * Added text-to-speech narrator
- * Added new sounds for the Note blocks
- * Added commands relating to recipes and advancements
- * Many minor fixes and changes
- * Removed Herobrine
+\* Added Glazed Terracotta blocks<br>
+\* Renamed Hardened Clay to Terracotta<br>
+\* Added Concrete Powder blocks<br>
+\* Added Concrete blocks<br>
+\* Updated base color palette<br>
+\* Added advancements<br>
+\* Added recipe book<br>
+\* Added Knowledge Book item<br>
+\* Added Parrots<br>
+\* Added functionality to save toolbars in creative mode<br>
+\* Added text-to-speech narrator<br>
+\* Added new sounds for the Note blocks<br>
+\* Added commands relating to recipes and advancements<br>
+\* Many minor fixes and changes<br>
+\* Removed Herobrine<br>
