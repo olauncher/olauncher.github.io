@@ -3,10 +3,11 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/launcher.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/launcher.css">
+    <link rel="icon" href="{{ site.baseurl }}/favicon.ico" />
   </head>
 
-  <body>
+  <body style="background-image: url('{{ site.baseurl }}/img/bg_main.png');">
     <table width="100%" height="100%">
       <tbody>
         <tr valign="top">
@@ -22,14 +23,14 @@
             </table>
             <div class="container">
               <div id="posts">
-                  <h3><a href="{{ post.url }}">{{ page.title }}</a></h3>
+                  <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a></h3>
                   {{ content }}
                   
                   {% if page.next %}
-                    <a href="{{ page.next.url }}">Newer</a>
+                    <a href="{{ site.baseurl }}{{ page.next.url }}">Newer</a>
                   {% endif %}
                   {% if page.previous %}
-                    <a href="{{ page.previous.url }}">Older</a>
+                    <a href="{{ site.baseurl }}{{ page.previous.url }}">Older</a>
                   {% endif %}
               </div>
               <hr>

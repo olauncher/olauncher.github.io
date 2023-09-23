@@ -5,7 +5,7 @@ title: Minecraft News
 
 {% for post in paginator.posts %}
   <div style="margin-top:16px">
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
     <div class="content">
       {{ post.content }}
     </div>
@@ -14,9 +14,9 @@ title: Minecraft News
 
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="newer">Newer</a>
+    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="newer">Newer</a>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="older">Older</a>
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="older">Older</a>
   {% endif %}
 </div>
