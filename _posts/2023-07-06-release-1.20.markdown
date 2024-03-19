@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Trails & Tales Update Out Today on Java
+title: Minecraft 1.20 - The Trails & Tales
 ---
 
 What, is there something special happening today? Hold on, let me grab my calendar book from my chiseled bookshelf.<br>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: World of Color is released!
+title: Minecraft 1.12 - World of Color is released!
 ---
 
 Sunlight yellow, chili red, royal blue, midnight black, grass green, lilac purple, true lime, fresh salmon, hot cappuccino, pretty much all of the off-white, annoying cyan, alpha-tested magenta, that brown-greenish barf shade... the World of Color update is here! (Minecraft Java Edition 1.12, editor's note.)<br>

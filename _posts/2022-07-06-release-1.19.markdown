@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Wild Update Out Today on Java
+title: Minecraft 1.19 - The Wild Update
 ---
 
 Oh, hello. I didn&rsquo;t see you there! I was too busy inspecting these mangrove tree roots. They&rsquo;re all tangled up! What do you mean they&rsquo;re supposed to be? Hey, that&rsquo;s pretty neat.<br>

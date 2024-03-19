@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Caves & Cliffs: Part 1 out today on Java'
+title: 'Minecraft 1.17 - Caves & Cliffs: Part 1'
 ---
 
 It&rsquo;s here. The Cave Update, with a side of cliffs. That&rsquo;s right, The Caves & Cliffs Update: Part I is launching today!<br>

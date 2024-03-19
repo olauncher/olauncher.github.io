@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buzzy Bees Out Now In Java
+title: Minecraft 1.15 - Buzzy Bees
 ---
 
 Usually finding out something you love is now full of bees is bad news (your cat, parents, self, etc). We hope you find the abundance of bees now buzzing merrily in Minecraft: Java Edition a delightful exception!<br>
