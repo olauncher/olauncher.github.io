@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Village & Pillage out today on Java
+title: Minecraft 1.14 - Village & Pillage
 ---
 
 Apparently, it takes a village to raise a child. Frankly, if we'd known how much work putting together the biggest Minecraft update yet was going to be, we'd have probably taken the easy option and tried to raise that child instead.<br>

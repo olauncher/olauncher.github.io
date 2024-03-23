@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Update Aquatic is out on Java!
+title: Minecraft 1.13 - Update Aquatic
 ---
 The tide is coming in at last! That's sea-faring speak for 'Java Players! Today you get the full Update Aquatic!'<br>
 

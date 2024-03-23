@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nether Update out today on Java
+title: Minecraft 1.16 - Nether Update
 ---
 
 One does not simply walk into the Nether, but it seems that's what everyone is about to do anyway...<br>

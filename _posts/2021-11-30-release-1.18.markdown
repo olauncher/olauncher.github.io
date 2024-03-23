@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Caves & Cliffs: Part II out today on Java'
+title: 'Minecraft 1.18 - Caves & Cliffs: Part II'
 ---
 
 It&rsquo;s been quite the trek, but we&rsquo;re here. At the summit. The Caves & Cliffs Update: Part II is out today, completing the much anticipated cave update.<br>
