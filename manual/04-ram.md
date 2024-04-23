@@ -35,7 +35,7 @@ _Note_: This article will not guide you through the process of tuning your garba
    
    The "heap size" is set by arguments starting with "-Xms" and "-Xmx". The former is the "starting" size of the heap, or the RAM usage when the game first launches. The latter is the "maximum" size of the heap. The game cannot use more memory than specified in "-Xmx".
 
-   Follow these arguments with a number and unit like so: "-Xms2G" for 2 gigabytes of RAM, "-Xms512M" for 512 megabytes of starting size.
+   Follow these arguments with a number and unit like so: "-Xmx2G" for 2 gigabytes of RAM, "-Xms512M" for 512 megabytes of starting size.
 
    It is recommended that you do not set "-Xmx" too high or too low. If the game has too little RAM allocated (usually less than 1 or 2 gigabytes), the game will stutter every few seconds. In-game, you can see this with the F3 menu. If the game has too much RAM allocated (over 8 gigabytes or so depending on your garbage collector), it may perform worse as well.
 3. Click **Save Profile**.
