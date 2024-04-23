@@ -1,0 +1,35 @@
+table.manual-content-table {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.manual-toc-cell, .manual-pages-list {
+  vertical-align: top;
+}
+
+.manual-toc-col {
+  width: 15%;
+}
+
+.manual-content-cell {
+  padding: 5px 25px;
+}
+
+.manual-figure {
+  border: 1px solid black;
+  text-align: center;
+  /*float: right;*/
+  display: inline-block;
+  vertical-align: center;
+  padding: 5px;
+  margin: 10px;
+  background-color: #e0e0e0;
+}
+
+.manual-figure img {
+  width: 300px;
+}
+
+th, td {
+  border: 1px solid black;
+}

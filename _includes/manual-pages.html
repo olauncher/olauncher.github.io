@@ -1,0 +1,5 @@
+<ol class="manual-pages-list" start="0">
+  {% for page in site.manual.pages %}
+    <li class="manual-page" id="manual-page-{{ page.name }}"><a href="{{ site.baseurl }}/manual/{{ page.name }}">{{ page.desc }}</a></li>
+  {% endfor %}
+</ol>

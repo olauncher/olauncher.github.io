@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+  <head>
+    <meta charset="utf-8">
+    <title>Manual: {{ page.title }}</title>
+    <link rel="icon" href="{{ site.baseurl }}/favicon.ico" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/manual.css" />
+  </head>
+
+  <body>
+    {% assign manual-page = page.name | remove: ".md" %}
+    <table class="manual-content-table">
+      <tr class="manual-header-row">
+        <th class="manual-toc-col">Manual Contents</th>
+        <th class="manual-content-col">OLauncher Manual</th>
+      </tr>
+      <tr class="manual-content-row">
+        <td class="manual-toc-cell manual-toc-col">
+          {% include manual-pages.html %}
+        </td>
+        <td class="manual-content-cell manual-content-col">
+          {{ content }}
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
