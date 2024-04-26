@@ -54,7 +54,7 @@ This method of logging into the launcher is intended for the cases where the fir
 
 For these steps, you will need a browser capable of displaying the Microsoft login page, usually a mobile phone or separate computer.
 
-As [before](#log-into-the-launcher), navigate to the login screen.
+As in [Log into the launcher](#log-into-the-launcher), navigate to the login screen.
 
 1. Click **Microsoft Login (Device Code)**.
 2. Follow the instructions in the dialog box that appears.

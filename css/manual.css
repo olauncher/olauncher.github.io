@@ -33,3 +33,11 @@ table.manual-content-table {
 th, td {
   border: 1px solid black;
 }
+
+.manual-nav-prev {
+  float: left;
+}
+
+.manual-nav-next {
+  float: right;
+}

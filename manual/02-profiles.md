@@ -14,7 +14,7 @@ This page will guide you through creating, editing, and deleting launcher profil
 3. [Delete a profile](#delete-a-profile)
 
 ## What you will need
-Excluding having [logged into the launcher](01-signin), you do not need anything to follow the steps on this page.
+You will need to be [logged into the launcher](01-signin).
 
 ## Create a profile
 1. Switch to the **Profile Editor** tab, which can be found at the top of the screen as seen in [Figure 1](#fig01).

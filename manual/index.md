@@ -3,7 +3,7 @@ layout: manual-page
 title: Index
 ---
 
-# OLauncher
+# [OLauncher](https://github.com/olauncher/olauncher)
 OLauncher is a lightweight launcher for Minecraft. It is a modified version of the old Java Minecraft launcher, but with support for new Microsoft accounts.
 
 ## User Manual 

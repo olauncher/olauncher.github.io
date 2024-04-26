@@ -4,7 +4,7 @@ title: 4 RAM
 ---
 
 # Change RAM allocation
-This page will guide you through changing the amount of RAM allocated to Minecraft.
+This page will guide you through changing the amount of RAM allocated to Minecraft. Normally, when 
 
 ## Table of contents
 - [Allocate more RAM to Minecraft](#allocate-more-ram-to-minecraft)
@@ -17,7 +17,7 @@ Excluding having [logged into the launcher](01-signin), you will need the follow
 ### A note on JVM arguments
 Java Virtual Machine (JVM) arguments control the Java environment. Changing these options may cause the game to fail to start. Proceed with caution.
 
-_Note_: This article will not guide you through the process of tuning your garbage collector for performance. That is beyond the scope of this manual.
+_Note_: This article will not guide you through the process of tuning your garbage collector for performance. That process is complex and beyond the scope of this manual.
 
 ## Allocate more RAM to Minecraft
 1. Choose a profile to edit and click **Edit Profile** (see [Figure 1](#fig01)). These options can be found in the lower right corner.
@@ -32,6 +32,8 @@ _Note_: This article will not guide you through the process of tuning your garba
    _Note_: You may also follow the steps in [Edit a profile](02-profiles#edit-a-profile).
 
 2. Change the heap size under **JVM Arguments**.
+   
+   _Note_: The checkbox next to **JVM Arguments** must be checked to edit the arguments.
    
    The "heap size" is set by arguments starting with "-Xms" and "-Xmx". The former is the "starting" size of the heap, or the RAM usage when the game first launches. The latter is the "maximum" size of the heap. The game cannot use more memory than specified in "-Xmx".
 

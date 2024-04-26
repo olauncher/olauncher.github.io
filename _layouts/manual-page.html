@@ -12,7 +12,9 @@
     <table class="manual-content-table">
       <tr class="manual-header-row">
         <th class="manual-toc-col">Manual Contents</th>
-        <th class="manual-content-col">OLauncher Manual</th>
+        <th class="manual-content-col">
+          {% include manual-navbar.html %}
+        </th>
       </tr>
       <tr class="manual-content-row">
         <td class="manual-toc-cell manual-toc-col">
@@ -21,6 +23,12 @@
         <td class="manual-content-cell manual-content-col">
           {{ content }}
         </td>
+      </tr>
+      <tr>
+        <th />
+        <th class="manual-content-col">
+          {% include manual-navbar.html %}
+        </th>
       </tr>
     </table>
   </body>

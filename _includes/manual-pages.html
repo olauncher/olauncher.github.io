@@ -1,5 +1,11 @@
 <ol class="manual-pages-list" start="0">
   {% for page in site.manual.pages %}
-    <li class="manual-page" id="manual-page-{{ page.name }}"><a href="{{ site.baseurl }}/manual/{{ page.name }}">{{ page.desc }}</a></li>
+    <li class="manual-page" id="manual-page-{{ page.name }}">
+      {% if page.name == manual-page %}
+        {{ page.desc }}
+      {% else %}
+        <a href="{{ site.baseurl }}/manual/{{ page.name }}">{{ page.desc }}</a>
+      {% endif %}
+    </li>
   {% endfor %}
 </ol>

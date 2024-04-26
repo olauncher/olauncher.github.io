@@ -18,7 +18,7 @@ Excluding having [logged into the launcher](01-signin), you will need the follow
 It is best practice to run different versions of the game in different directories, so configuration files, mod directories, and worlds do not conflict. In some versions, if you open a world from another version, the world becomes corrupted.
 
 ## Change a profile's version
-Before you begin these steps, it is recommended that you [back up](06-installmg#back-up-your-worlds) first.
+Before you begin these steps, it is recommended that you [back up your worlds](06-installmg#back-up-your-worlds).
 
 1. Choose a profile to edit and click **Edit Profile** (see [Figure 1](#fig01)). These options can be found in the lower right corner.
    
