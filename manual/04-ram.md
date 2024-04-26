@@ -3,23 +3,23 @@ layout: manual-page
 title: 4 RAM
 ---
 
-# Change RAM allocation
+# Change RAM Allocation
 This page will guide you through changing the amount of RAM allocated to Minecraft. Normally, when 
 
-## Table of contents
-- [Allocate more RAM to Minecraft](#allocate-more-ram-to-minecraft)
+## Table of Contents
+1. [Allocate More RAM to Minecraft](#allocate-more-ram-to-minecraft)
 
-## What you will need
+## What you will Need
 Excluding having [logged into the launcher](01-signin), you will need the following things to follow the instructions on this page:
 
 - A launcher profile
 
-### A note on JVM arguments
+### A Note on JVM Arguments
 Java Virtual Machine (JVM) arguments control the Java environment. Changing these options may cause the game to fail to start. Proceed with caution.
 
 _Note_: This article will not guide you through the process of tuning your garbage collector for performance. That process is complex and beyond the scope of this manual.
 
-## Allocate more RAM to Minecraft
+## Allocate More RAM to Minecraft
 1. Choose a profile to edit and click **Edit Profile** (see [Figure 1](#fig01)). These options can be found in the lower right corner.
    
    <span class="manual-figure" id="fig01">

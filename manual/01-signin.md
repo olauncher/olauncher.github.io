@@ -3,22 +3,22 @@ layout: manual-page
 title: 1 Manage Accounts
 ---
 
-# Manage Microsoft accounts
+# Manage Microsoft Accounts
 This page will guide you through logging into and out of a Microsoft account within the launcher.
 
 This page also describes [an alternate method](#log-into-the-launcher-alternate-method) for logging into the launcher, in case you do not have a browser that supports the Microsoft login page.
 Users on Windows XP or older may be in this situation.
 
-## Table of contents
+## Table of Contents
 1. [Log into the Launcher](#log-into-the-launcher)
 2. [Log into the Launcher (alternate method)](#log-into-the-launcher-alternate-method)
 3. [Log out of the Launcher](#log-out-of-the-launcher)
 
-## What you will need
+## What you will Need
 To follow the instructions on this page, you will need the following:
 - A Microsoft account that owns Minecraft
 
-### A note on Microsoft accounts
+### A Note on Microsoft Accounts
 If you are not able to log into OLauncher, make sure that your account owns the game by logging in at [minecraft.net](https://www.minecraft.net/en-us/login). Additionally, you must have created a profile by setting your name.
 
 If you are still not able to log in and your Microsoft account's birthday is set to a date less than 18 years in the past, you must be in a [family](https://support.microsoft.com/en-us/account-billing/getting-started-with-microsoft-family-safety-b6280c9d-38d7-82ff-0e4f-a6cb7e659344).

@@ -3,13 +3,13 @@ layout: manual-page
 title: 5 Collecting Logs
 ---
 
-# Collect launcher logs
+# Collect Launcher Logs
 This page will guide you through the process of collecting launcher logs. These will assist developers with helping you troubleshoot the launcher.
 
-## Table of contents
-- [Capturing launcher logs (Windows)](#capturing-launcher-logs-windows)
+## Table of Contents
+1. [Capturing Launcher Logs (Windows)](#capturing-launcher-logs-windows)
 
-## Capturing launcher logs (Windows)
+## Capturing Launcher Logs (Windows)
 If the launcher is able to make it past the login screen, the launcher logs are available in the Launcher Log tab (as seen in [Figure 1](#fig01)). Otherwise, follow the steps below.
 
 <span class="manual-figure" id="fig01">

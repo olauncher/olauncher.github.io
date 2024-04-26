@@ -3,14 +3,14 @@ layout: manual-page
 title: 6 Profile Management
 ---
 
-# Manage a Minecraft profile
+# Manage a Minecraft Profile
 Once you have been playing in a world for a bit, it is best to make copies of it in case it gets corrupted or mistakenly deleted. Or perhaps you want to access your screenshots or add a resource pack. All of those things (and more) reside in the profile's directory.
 
-## Table of contents
-- [Open a profile's directory](#open-a-profiles-directory)
-- [Back up your worlds](#back-up-your-worlds)
+## Table of Contents
+1. [Open a Profile's Directory](#open-a-profiles-directory)
+2. [Back up your Worlds](#back-up-your-worlds)
 
-## Open a profile's directory
+## Open a Profile's Directory
 1. Open the profile editor.
    
    You may do this using the **Edit Profile** button ([Figure 1](#fig01)) on the bottom banner, or by double clicking a profile on the **Profile Editor** tab ([Figure 2](#fig02)).
@@ -34,7 +34,7 @@ Once you have been playing in a world for a bit, it is best to make copies of it
    
    Worlds are in the `saves` directory, screenshots in `screenshots`, and resource packs in `resourcepacks`.
 
-## Back up your worlds
+## Back up your Worlds
 _Note_: Newer versions of the game have an option to back up worlds in-game. This guide is for those versions which do not.
 
 1. [Open the game directory](#open-a-profiles-directory).

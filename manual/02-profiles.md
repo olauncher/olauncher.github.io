@@ -3,20 +3,20 @@ layout: manual-page
 title: 2 Profile Management
 ---
 
-# Manage launcher profiles
+# Manage Launcher Profiles
 A profile is a specific configuration of Minecraft. It includes information such as the game version, launch arguments, and game directory.
 
 This page will guide you through creating, editing, and deleting launcher profiles. See [3. Select the game version](03-gamever) for more details on choosing a game version.
 
-## Table of contents
-1. [Create a profile](#create-a-profile)
-2. [Edit a profile](#edit-a-profile)
-3. [Delete a profile](#delete-a-profile)
+## Table of Contents
+1. [Create a Profile](#create-a-profile)
+2. [Edit a Profile](#edit-a-profile)
+3. [Delete a Profile](#delete-a-profile)
 
-## What you will need
+## What you will Need
 You will need to be [logged into the launcher](01-signin).
 
-## Create a profile
+## Create a Profile
 1. Switch to the **Profile Editor** tab, which can be found at the top of the screen as seen in [Figure 1](#fig01).
    
    <span class="manual-figure" id="fig01">
@@ -39,7 +39,7 @@ You will need to be [logged into the launcher](01-signin).
    
    The profile should be saved! You may now select and play that profile.
 
-## Edit a profile
+## Edit a Profile
 1. Switch to the **Profile Editor** tab as seen in [Figure 1](#fig01).
 
 2. Double-click the profile you wish to edit.
@@ -48,7 +48,7 @@ You will need to be [logged into the launcher](01-signin).
 
 3. Click **Save Profile**.
 
-## Delete a profile
+## Delete a Profile
 _Note_: the profile cannot be recovered once deleted, though the game directory is not cleared. This means that your screenshots, worlds, and mods are preserved.
 
 1. Switch to the **Profile Editor** tab as seen in [Figure 1](#fig01).
