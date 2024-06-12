@@ -10,7 +10,6 @@ Current features include:
 
 Planned features include:
 * Skin, cape and Optifine cape management
-* Support demo users
 
 We'll keep you posted.<br>
 \- The OLauncher Team
